@@ -25,15 +25,17 @@ header{
     word-spacing: 10px;
     letter-spacing: 1px;
     color: rgb(37, 3, 17);
-    margin-top: 140px;
+    margin-top: 180px;
+    background-image: linear-gradient(rgba(110, 57, 225, 0.473),rgba(24, 2, 70, 0.541));
 }
 
 #north{
     text-align: center;
     word-spacing: 10px;
     letter-spacing: 1px;
-    color: rgb(78, 5, 29);
+    color: rgb(50, 7, 31);
     margin-top: 40px;
+    background-image: linear-gradient(rgba(110, 57, 225, 0.473),rgba(24, 2, 70, 0.541));
 }
 
 #town{
@@ -41,6 +43,7 @@ header{
     word-spacing: 10px;
     letter-spacing: 1px;
     color: rgb(36, 1, 1);
+    background-image: linear-gradient(rgba(110, 57, 225, 0.473),rgba(24, 2, 70, 0.541));
 }
 
 footer{

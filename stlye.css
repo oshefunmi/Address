@@ -1,0 +1,54 @@
+body{
+    background-image: none;
+    background-image:url(mfmpic.webp) ;
+    background-image: linear-gradient();
+    background-position: center;
+    background-color: rgb(141, 13, 158);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header{
+    text-align: center;
+    background-image: linear-gradient(rgba(204, 103, 218, 0.5),rgba(27, 2, 44, 0.5));
+    padding: 10px ;
+    border: rgb(175, 12, 207) solid;
+    position: sticky;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+}
+
+#mount{
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    color: rgb(37, 3, 17);
+    margin-top: 140px;
+}
+
+#north{
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    color: rgb(78, 5, 29);
+    margin-top: 40px;
+}
+
+#town{
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    color: rgb(36, 1, 1);
+}
+
+footer{
+    margin-top: 240px;
+    padding: 10px;
+    background-image: linear-gradient(rgba(91, 36, 107, 0.5),rgba(38, 4, 66, 0.75));
+    word-spacing: 10px;
+}
+
+
+
